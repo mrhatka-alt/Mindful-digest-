@@ -29,3 +29,6 @@ jobs:
       with:
         name: DigitalDetox-APK
         path: app/build/outputs/apk/debug/*.apk
+
+
+
